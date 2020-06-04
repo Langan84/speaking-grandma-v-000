@@ -5,7 +5,7 @@ phrase = gets.chomp
   if phrase == "I LOVE YOU GRANDMA!"
       puts "I LOVE YOU TOO PUMPKIN!"
 
-  elsif string == string.upcase
+  elsif phrase == string.upcase
       puts "NO, NOT SINCE 1938!"
 
   else
