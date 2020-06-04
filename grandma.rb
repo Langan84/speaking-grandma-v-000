@@ -9,7 +9,7 @@ phrase = gets.chomp
       puts "NO, NOT SINCE 1938!"
 
   else
-  
+
       puts "HUH?! SPEAK UP, SONNY!"
 
   end
